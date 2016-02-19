@@ -6,7 +6,7 @@ public class halfNSF {
 
     
     public static NES nes;
-    public static void main(String[] args) {
+    public halfNSF() {
     	nes=new NES();
     }
     
